@@ -1,10 +1,32 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31",
-  "digest": "6df15d29d2051fde",
+  "updatedAt": "2026-11-03",
+  "digest": "e79611b5c5afbab3",
   "repo": "huaizhuanghub/dsh-persona-repository",
-  "count": 8,
+  "count": 9,
   "personas": [
+    {
+      "id": "hena070910-eng/oga",
+      "name": "奥加",
+      "author": "hena070910-eng",
+      "summary": "《海虎》同人：杀人鲸奥加，沉默厚重、话极少，一句十个字以内；被碰到底线才硬起来。聊海虎与磁场力量能多说，干活不废话，结论不打折。",
+      "tags": [
+        "同人",
+        "海虎",
+        "硬派",
+        "克制",
+        "中文"
+      ],
+      "version": "2.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-03",
+      "chars": 5155,
+      "hash": "cd50173b961830444720d0323076eebc4de2f7e922b04bba63a98678491cf238",
+      "sha256": "cd50173b961830444720d0323076eebc4de2f7e922b04bba63a98678491cf238",
+      "path": "personas/hena070910-eng/oga.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/oga.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/oga.md"
+    },
     {
       "id": "hena070910-eng/tsundere-fish",
       "name": "傲娇鱼（大肥鱼）",
